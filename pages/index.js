@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            🌸 Another branch Det started by editing&nbsp;
+            🚀 Commit 2 Another branch Det started by editing&nbsp;
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
